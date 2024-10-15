@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# RECUP: Scalable Metadata and Provenance for Reproducible Hybrid Workflows
+We develop methods to enable the reproducibility of performance and scientific results for numerical and data-intensive simulations orchestrated by workflows that run on high performance systems.
 <!--
 
 **Here are some ideas to get you started:**
