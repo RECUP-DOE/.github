@@ -11,4 +11,4 @@ The RECUP web site is available here [https://sites.google.com/view/recup-reprod
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-![Diagram of HPC workflow showing RECUP data sources, FAIRification process, and post-hoc analysis.  Blue lines are executed in situ, orange are post-hoc.](./main-logos-October2024.png)  
+![Diagram of HPC workflow showing RECUP data sources, FAIRification process, and post-hoc analysis.  Blue lines are executed in situ, orange are post-hoc.](./main-logos-October2024-2.png)  
